@@ -1,5 +1,5 @@
 {
-    "name": "jrean/laravel-user-verification",
+    "name": "nookery/laravel-user-verification",
     "description": "User Email Verification For Laravel",
     "keywords": ["laravel", "framework", "user verification", "email verification", "user activation", "email activation"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "illuminate/support": "^6.0 || ^7.0"
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0"
     },
     "autoload": {
         "psr-4": {
